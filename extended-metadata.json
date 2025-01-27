@@ -1,0 +1,29 @@
+{
+    "info": {
+        "about": {
+            "me": null,
+            "server": null,
+            "company": null
+        },
+        "social": {
+            "github_handle": "https://github.com/DavidT58",
+            "twitch_handle": null,
+            "discord_handle": "@davidt58",
+            "twitter_handle": null,
+            "youtube_handle": null,
+            "facebook_handle": null,
+            "telegram_handle": "@davidt58"
+        },
+        "company": {
+            "addr": null,
+            "city": null,
+            "name": null,
+            "vat_id": null,
+            "country": null,
+            "company_id": null
+        },
+        "location": "Earth",
+        "url_png_logo": "https://davidt58.github.io/summit-pool-metadata/img/icon.png",
+        "url_png_icon_64x64": "https://davidt58.github.io/summit-pool-metadata/img/icon_64_64.png"
+    }
+}

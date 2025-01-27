@@ -1,7 +1,7 @@
 {
-  "name": "Summit Pool",
-  "description": "Stake with confidence, earn with ease.",
-  "ticker": "SMMIT",
-  "homepage": "https://summitstak.ing",
-  "extended": "https://developers.apexfusion.org/spo/35/extended"
+    "name": "Summit Pool",
+    "description": "Stake with confidence, earn with ease.",
+    "ticker": "SMMIT",
+    "homepage": "https://summitstak.ing",
+    "extended": "https://raw.githubusercontent.com/DavidT58/summit-pool-metadata/refs/heads/main/metadata.json"
 }
